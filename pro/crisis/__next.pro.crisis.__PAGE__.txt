@@ -1,0 +1,34 @@
+2:"$Sreact.fragment"
+3:"/jangsa/_next/static/chunks/02fu76bm15hbq.js"
+4:I[39756,["$3"],"default"]
+5:I[37457,["$3"],"default"]
+c:"/jangsa/_next/static/chunks/0mh65frfxpi6i.js"
+d:"/jangsa/_next/static/chunks/1wqz9lqg2nfnc.js"
+e:"/jangsa/_next/static/chunks/3nlvra7npus-p.js"
+f:"/jangsa/_next/static/chunks/0-l8tpvnkn5vx.js"
+10:"/jangsa/_next/static/chunks/3t3yu7opo5qjf.js"
+11:"/jangsa/_next/static/chunks/0klane4b-u14o.js"
+12:I[49591,["$c","$d","$e","$f","$10","$11"],"CrisisPage"]
+13:I[97367,["$3"],"OutletBoundary"]
+14:"$Sreact.suspense"
+17:"ViewportBoundary"
+18:I[97367,["$3"],"$17"]
+19:"MetadataBoundary"
+1a:I[97367,["$3"],"$19"]
+1b:I[27201,["$3"],"IconMark"]
+7:X
+a:X
+a:C
+b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","$L12",null,{}],[["$","script","script-0",{"src":"/jangsa/_next/static/chunks/1wqz9lqg2nfnc.js","async":true}],["$","script","script-1",{"src":"/jangsa/_next/static/chunks/3nlvra7npus-p.js","async":true}],["$","script","script-2",{"src":"/jangsa/_next/static/chunks/0-l8tpvnkn5vx.js","async":true}],["$","script","script-3",{"src":"/jangsa/_next/static/chunks/3t3yu7opo5qjf.js","async":true}],["$","script","script-4",{"src":"/jangsa/_next/static/chunks/0klane4b-u14o.js","async":true}]],["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]]}],"p":"$@16","v":null,"s":"$7"}}]]
+8:[["children",{"s":"crisis","h":96,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@9","v":"$a","s":"$7"},"c":"$Qb"}]]
+1:[["children",{"s":"pro","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","div",null,{"className":"pro-theme relative isolate min-h-dvh overflow-x-clip","children":["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]}]]}],"p":"$@6","v":null,"s":"$7"},"c":"$Q8"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L18",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f7f8f5","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#0f1513","media":"(prefers-color-scheme: dark)"}]]}],["$","$L1a",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$14",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"PRO 위기의 바람 · 장사해도 될까?"}],["$","meta","1",{"name":"description","content":"창업 전, 생각한 금액으로 시작하면 한 달에 얼마가 남고 하루 손님이 몇 명 필요한지 미리 계산해 보세요. 하루 손님·객단가·월세만 넣으면 돼요."}],["$","meta","2",{"name":"application-name","content":"장사해도 될까?"}],["$","link","3",{"rel":"manifest","href":"/jangsa/manifest.webmanifest"}],["$","meta","4",{"name":"robots","content":"noindex, nofollow"}],["$","meta","5",{"property":"og:title","content":"소중한 전 재산, 숫자로 먼저 확인하세요 — 장사해도 될까?"}],["$","meta","6",{"property":"og:description","content":"생각한 금액으로 시작하면 한 달에 얼마가 남고 하루 손님이 몇 명 필요한지, 계약 전에 3분 만에 계산해 보세요."}],["$","meta","7",{"property":"og:site_name","content":"장사해도 될까?"}],["$","meta","8",{"property":"og:locale","content":"ko_KR"}],["$","meta","9",{"property":"og:image","content":"https://haluhalu12.github.io/jangsa/opengraph-image.jpg?opengraph-image.3if1uz3i1khvd.jpg"}],["$","meta","10",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","11",{"property":"og:image:width","content":"1200"}],["$","meta","12",{"property":"og:image:height","content":"630"}],["$","meta","13",{"property":"og:image:alt","content":"장사해도 될까? — 3분 사업성 계산 베타"}],["$","meta","14",{"property":"og:type","content":"website"}],["$","meta","15",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","16",{"name":"twitter:title","content":"소중한 전 재산, 숫자로 먼저 확인하세요 — 장사해도 될까?"}],["$","meta","17",{"name":"twitter:description","content":"생각한 금액으로 시작하면 한 달에 얼마가 남고 하루 손님이 몇 명 필요한지, 계약 전에 3분 만에 계산해 보세요."}],["$","meta","18",{"name":"twitter:image","content":"https://haluhalu12.github.io/jangsa/opengraph-image.jpg?opengraph-image.3if1uz3i1khvd.jpg"}],["$","meta","19",{"name":"twitter:image:alt","content":"장사해도 될까? — 3분 사업성 계산 베타"}],["$","meta","20",{"name":"twitter:image:type","content":"image/jpeg"}],["$","meta","21",{"name":"twitter:image:width","content":"1200"}],["$","meta","22",{"name":"twitter:image:height","content":"630"}],["$","link","23",{"rel":"icon","href":"/jangsa/icon.svg?icon.3swkebt2t0-k-.svg","sizes":"any","type":"image/svg+xml"}],["$","$L1b","24",{}]]}]}],null]}],null]}],"p":"$@1c","v":null,"s":"$7"}},"a":"$@1d","u":"$@1e","b":"Hd6yqFRAIkZM0tRENRFil"}
+15:null
+1e:true
+7:300
+7:C
+1d:0
+9:"$undefined"
+6:"$undefined"
+1c:"$undefined"
+16:"$undefined"

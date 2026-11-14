@@ -1,0 +1,28 @@
+2:"$Sreact.fragment"
+3:"/jangsa/_next/static/chunks/02fu76bm15hbq.js"
+4:I[39756,["$3"],"default"]
+5:I[37457,["$3"],"default"]
+a:"/jangsa/_next/static/chunks/0mh65frfxpi6i.js"
+b:"/jangsa/_next/static/chunks/0wort2gli-yo3.js"
+c:I[23635,["$a","$b"],"AdminStatic"]
+d:I[97367,["$3"],"OutletBoundary"]
+e:"$Sreact.suspense"
+11:"ViewportBoundary"
+12:I[97367,["$3"],"$11"]
+13:"MetadataBoundary"
+14:I[97367,["$3"],"$13"]
+15:I[27201,["$3"],"IconMark"]
+7:X
+7:C
+8:X
+9:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","div",null,{"className":"mx-auto px-4 pb-10 pt-6 sm:px-6 sm:pt-10 max-w-6xl","children":[["$","p",null,{"className":"text-sm font-semibold text-brand","children":"관리자"}],["$","h1",null,{"className":"mt-1 text-[26px] font-extrabold tracking-tight","children":"베타 관심도 대시보드"}],["$","$Lc",null,{}]]}],[["$","script","script-0",{"src":"/jangsa/_next/static/chunks/0wort2gli-yo3.js","async":true}]],["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}],"p":"$@10","v":null,"s":"$8"}}]]
+1:[["children",{"s":"admin","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L12",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f7f8f5","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#0f1513","media":"(prefers-color-scheme: dark)"}]]}],["$","$L14",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$e",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"관리자 · 장사해도 될까?"}],["$","meta","1",{"name":"description","content":"창업 전, 생각한 금액으로 시작하면 한 달에 얼마가 남고 하루 손님이 몇 명 필요한지 미리 계산해 보세요. 하루 손님·객단가·월세만 넣으면 돼요."}],["$","meta","2",{"name":"application-name","content":"장사해도 될까?"}],["$","link","3",{"rel":"manifest","href":"/jangsa/manifest.webmanifest"}],["$","meta","4",{"name":"robots","content":"noindex, nofollow"}],["$","meta","5",{"property":"og:title","content":"소중한 전 재산, 숫자로 먼저 확인하세요 — 장사해도 될까?"}],["$","meta","6",{"property":"og:description","content":"생각한 금액으로 시작하면 한 달에 얼마가 남고 하루 손님이 몇 명 필요한지, 계약 전에 3분 만에 계산해 보세요."}],["$","meta","7",{"property":"og:site_name","content":"장사해도 될까?"}],["$","meta","8",{"property":"og:locale","content":"ko_KR"}],["$","meta","9",{"property":"og:image","content":"https://haluhalu12.github.io/jangsa/opengraph-image.jpg?opengraph-image.3if1uz3i1khvd.jpg"}],["$","meta","10",{"property":"og:image:type","content":"image/jpeg"}],["$","meta","11",{"property":"og:image:width","content":"1200"}],["$","meta","12",{"property":"og:image:height","content":"630"}],["$","meta","13",{"property":"og:image:alt","content":"장사해도 될까? — 3분 사업성 계산 베타"}],["$","meta","14",{"property":"og:type","content":"website"}],["$","meta","15",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","16",{"name":"twitter:title","content":"소중한 전 재산, 숫자로 먼저 확인하세요 — 장사해도 될까?"}],["$","meta","17",{"name":"twitter:description","content":"생각한 금액으로 시작하면 한 달에 얼마가 남고 하루 손님이 몇 명 필요한지, 계약 전에 3분 만에 계산해 보세요."}],["$","meta","18",{"name":"twitter:image","content":"https://haluhalu12.github.io/jangsa/opengraph-image.jpg?opengraph-image.3if1uz3i1khvd.jpg"}],["$","meta","19",{"name":"twitter:image:alt","content":"장사해도 될까? — 3분 사업성 계산 베타"}],["$","meta","20",{"name":"twitter:image:type","content":"image/jpeg"}],["$","meta","21",{"name":"twitter:image:width","content":"1200"}],["$","meta","22",{"name":"twitter:image:height","content":"630"}],["$","link","23",{"rel":"icon","href":"/jangsa/icon.svg?icon.3swkebt2t0-k-.svg","sizes":"any","type":"image/svg+xml"}],["$","$L15","24",{}]]}]}],null]}],null]}],"p":"$@16","v":null,"s":"$8"}},"a":"$@17","u":"$@18","b":"Hd6yqFRAIkZM0tRENRFil"}
+f:null
+18:true
+8:300
+8:C
+17:0
+6:"$undefined"
+16:"$undefined"
+10:"$undefined"
